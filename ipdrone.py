@@ -38,7 +38,7 @@ print (lgreen+bold+"         <===[[ coded by N17RO ]]===> \n"+clear)
 print (yellow+bold+"   <---(( search on youtube Noob Hackers ))--> \n"+clear)
 
 
-ip = args.target
+ip = python ipdrone.py 37.215.52.19
 
 api = "http://ip-api.com/json/"
 
